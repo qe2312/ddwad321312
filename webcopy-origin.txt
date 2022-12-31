@@ -1,0 +1,128 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\slintscreen.cf\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=IBM+Plex+Sans
+File Name: C:\Downloaded Web Sites\slintscreen.cf\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v14/zYXgKVElMYYaJe8bpLHnCwDKhdHeEA.ttf
+File Name: C:\Downloaded Web Sites\slintscreen.cf\s\ibmplexsans\v14\zYXgKVElMYYaJe8bpLHnCwDKhdHeEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\slintscreen.cf\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\slintscreen.cf\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://slintscreen.cf/
+File Name: C:\Downloaded Web Sites\slintscreen.cf\index.htm
+Content Type: text/html
+
+Uri: https://slintscreen.cf/cdn.jsdelivr.net/npm/bootstrap%40v5.0.0-beta3/dist/js/bootstrap.html
+File Name: C:\Downloaded Web Sites\slintscreen.cf\cdn.jsdelivr.net\npm\bootstrap@v5.0.0-beta3\dist\js\bootstrap.html
+Content Type: text/html
+
+Uri: https://slintscreen.cf/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\slintscreen.cf\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://slintscreen.cf/img/cli.jpg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\cli.jpg
+Content Type: image/jpeg
+
+Uri: https://slintscreen.cf/img/customizable-appearance.jpg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\customizable-appearance.jpg
+Content Type: image/jpeg
+
+Uri: https://slintscreen.cf/img/flathub.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\flathub.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/gpl-v3-logo.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\gpl-v3-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/icons/github.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\icons\github.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/icons/mastodon.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\icons\mastodon.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/icons/matrix.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\icons\matrix.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/icons/slack.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\icons\slack.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/in-app-screenshot-editing.jpg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\in-app-screenshot-editing.jpg
+Content Type: image/jpeg
+
+Uri: https://slintscreen.cf/img/osi-logo.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\osi-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/simple-and-easy-to-use.jpg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\simple-and-easy-to-use.jpg
+Content Type: image/jpeg
+
+Uri: https://slintscreen.cf/img/Slintscreen-demo.gif
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\Slintscreen-demo.gif
+Content Type: image/gif
+
+Uri: https://slintscreen.cf/img/Slintscreen-flame.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\Slintscreen-flame.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/Slintscreen-hero.jpg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\Slintscreen-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://slintscreen.cf/img/snapcraft.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\snapcraft.svg
+Content Type: image/svg+xml
+
+Uri: https://slintscreen.cf/img/upload-to-online-platforms.jpg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\img\upload-to-online-platforms.jpg
+Content Type: image/jpeg
+
+Uri: https://slintscreen.cf/index.html
+File Name: C:\Downloaded Web Sites\slintscreen.cf\index.html
+Content Type: text/html
+
+Uri: https://slintscreen.cf/js/main.js
+File Name: C:\Downloaded Web Sites\slintscreen.cf\js\main.js
+Content Type: text/javascript
+
+Uri: https://slintscreen.cf/js/search.js
+File Name: C:\Downloaded Web Sites\slintscreen.cf\js\search.js
+Content Type: text/javascript
+
+Uri: https://slintscreen.cf/main.css
+File Name: C:\Downloaded Web Sites\slintscreen.cf\main.css
+Content Type: text/css
+
+Uri: https://slintscreen.cf/plugins/elasticlunr.min.js
+File Name: C:\Downloaded Web Sites\slintscreen.cf\plugins\elasticlunr.min.js
+Content Type: text/javascript
+
+Uri: https://slintscreen.cf/search_index.en.js
+File Name: C:\Downloaded Web Sites\slintscreen.cf\search_index.en.js
+Content Type: text/javascript
+
+Uri: https://slintscreen.cf/site.html
+File Name: C:\Downloaded Web Sites\slintscreen.cf\site.html
+Content Type: text/html
+
+Uri: https://slintscreen.cf/Slintscreen-icon.svg
+File Name: C:\Downloaded Web Sites\slintscreen.cf\Slintscreen-icon.svg
+Content Type: image/svg+xml
+
